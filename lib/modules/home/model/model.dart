@@ -1,0 +1,10 @@
+export 'list_faq_model.dart';
+export 'list_faq_parram.dart';
+export 'detail_faq_parram.dart';
+export 'detail_faq_model.dart';
+export 'edit_faq_model.dart';
+export 'edit_faq_parram.dart';
+export 'delete_faq_model.dart';
+export 'delete_faq_parram.dart';
+export 'add_faq_model.dart';
+export 'add_faq_parram.dart';
